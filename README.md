@@ -52,5 +52,5 @@ To run the Flask application:
 4. Access the API endpoints as described in the Flask Routes section of `app.py`.
 
 ## Acknowledgments
-- Dataset provided by the University of Oregon.
+- Dataset provided from external sources.
 - Inspiration and guidance from the SQLAlchemy and Flask documentation.
